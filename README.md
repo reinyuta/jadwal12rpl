@@ -1,2 +1,2 @@
-# jadwal12rpl
-jadwal gemink
+# XII RPL SCHOOL DATE
+Jadwal Kelas XII RPL
